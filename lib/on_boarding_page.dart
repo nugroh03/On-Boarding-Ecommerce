@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:on_boarding_screen/slider.dart';
+import 'package:on_boarding_screen/Widget/slider.dart';
+
 
 class OnBoardingPage extends StatefulWidget {
   OnBoardingPage({Key? key}) : super(key: key);
